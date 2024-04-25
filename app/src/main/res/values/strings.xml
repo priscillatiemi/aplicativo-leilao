@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">leilao</string>
+    <string name="title_activity_home">Home</string>
+    <string name="txt_pesquisa">Pesquisar</string>
+</resources>

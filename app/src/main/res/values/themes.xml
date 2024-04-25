@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Leilao" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Aqui você pode adicionar outras customizações do tema, se necessário -->
+        <item name="colorPrimary">@color/pink</item>
+        <item name="android:statusBarColor">@color/pink</item>
+    </style>
+</resources>
